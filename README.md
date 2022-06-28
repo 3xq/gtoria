@@ -1,3 +1,3 @@
-# Graphictoria
+# gtoria
 
-## Simple tasks automated using python.
+## simple tasks automated using python.
